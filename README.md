@@ -31,6 +31,19 @@ A análise dos cartões envolve várias etapas, desde a extração de dados até
 - Detectar fraudes de maneira eficiente e precisa.
 - Utilizar os serviços da Azure para garantir escalabilidade e robustez.
 
+## 📄 Configuração do Ambiente
+
+Para configurar o ambiente, siga os passos abaixo:
+
+1. Crie um arquivo `.env` na raiz do projeto com base no arquivo `env.example`. Você pode copiar o conteúdo do `env.example` para o novo arquivo `.env` e ajustar as variáveis conforme necessário:
+
+    ```bash
+    cp env.example .env
+    ```
+
+2. Abra o arquivo `.env` e configure as variáveis de ambiente com os valores apropriados para sua configuração local. Certifique-se de definir as chaves de API e outras informações sensíveis corretamente.
+
+Seguindo esses passos, você terá o ambiente configurado corretamente para executar o projeto.
 
 ## 🚀 Como Executar o Projeto
 
