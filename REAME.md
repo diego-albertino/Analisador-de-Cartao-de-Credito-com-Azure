@@ -1,4 +1,4 @@
-# 💳 Analisador de Cartão de Crédito com Azure
+# 📄 Analisador de Cartão de Crédito Anti-Fraude com Azure
 
 ## 📝 Descrição do Projeto
 
@@ -30,3 +30,5 @@ A análise dos cartões envolve várias etapas, desde a extração de dados até
 - Implementar uma solução automatizada para análise de transações de cartões de crédito.
 - Detectar fraudes de maneira eficiente e precisa.
 - Utilizar os serviços da Azure para garantir escalabilidade e robustez.
+
+
