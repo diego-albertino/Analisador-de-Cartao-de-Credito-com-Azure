@@ -32,3 +32,24 @@ A análise dos cartões envolve várias etapas, desde a extração de dados até
 - Utilizar os serviços da Azure para garantir escalabilidade e robustez.
 
 
+## 🚀 Como Executar o Projeto
+
+Para executar o projeto localmente, siga os passos abaixo:
+
+1. Certifique-se de ter o Python instalado em sua máquina. Você pode baixar a versão mais recente do Python [aqui](https://www.python.org/downloads/).
+
+2. Instale as dependências necessárias. Navegue até o diretório do projeto e execute o comando abaixo para instalar as bibliotecas listadas no arquivo `requirements.txt`:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Execute o aplicativo utilizando o Streamlit. No terminal, navegue até o diretório do projeto e execute o comando:
+
+    ```bash
+    streamlit run .\app.py
+    ```
+
+4. O Streamlit abrirá uma nova aba no seu navegador padrão, onde você poderá interagir com a aplicação e fazer o upload das imagens dos cartões de crédito para análise.
+
+Seguindo esses passos, você conseguirá rodar o projeto localmente e testar todas as funcionalidades implementadas.
